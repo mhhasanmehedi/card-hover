@@ -1,0 +1,123 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.img-container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .box {
+    position: relative;
+    &:hover {
+      .box-1 {
+        transform: rotate(10deg);
+      }
+      .box-2 {
+        transform: rotate(20deg);
+      }
+      .box-3 {
+        transform: rotate(30deg);
+      }
+      .box-4 {
+        transform: rotate(40deg);
+      }
+      .box-5 {
+        transform: rotate(50deg);
+      }
+      .box-6 {
+        transform: rotate(60deg);
+      }
+      .box-7 {
+        transform: rotate(70deg);
+      }
+      .box-8 {
+        transform: rotate(80deg);
+      }
+      .box-9 {
+        transform: rotate(90deg);
+      }
+      .box-10 {
+        transform: rotate(100deg);
+      }
+    }
+
+    .img-box {
+      width: 500px;
+      height: 500px;
+      // z-index: 1;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    span {
+      position: absolute;
+      display: block;
+      height: 100%;
+      width: 100%;
+      top: 0;
+    }
+    .box-1 {
+      background: red;
+      transform: rotate(0);
+      z-index: -1;
+      transition: 0.4s;
+    }
+    .box-2 {
+      background: green;
+      transform: rotate(0);
+      z-index: -2;
+      transition: 0.4s;
+    }
+    .box-3 {
+      background: blue;
+      transform: rotate(0);
+      z-index: -3;
+      transition: 0.4s;
+    }
+    .box-4 {
+      background: yellow;
+      transform: rotate(0);
+      z-index: -4;
+      transition: 0.4s;
+    }
+    .box-5 {
+      background: aqua;
+      transform: rotate(0);
+      z-index: -5;
+      transition: 0.4s;
+    }
+    .box-6 {
+      background: black;
+      transform: rotate(0);
+      z-index: -6;
+      transition: 0.4s;
+    }
+    .box-7 {
+      background: orange;
+      transform: rotate(0);
+      z-index: -7;
+      transition: 0.4s;
+    }
+    .box-8 {
+      background: pink;
+      transform: rotate(0);
+      z-index: -8;
+      transition: 0.4s;
+    }
+    .box-9 {
+      background: purple;
+      transform: rotate(0);
+      z-index: -9;
+      transition: 0.4s;
+    }
+    .box-10 {
+      background: LightSeaGreen;
+      transform: rotate(0);
+      z-index: -100;
+      transition: 0.4s;
+    }
+  }
+}
