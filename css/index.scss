@@ -13,40 +13,50 @@
     &:hover {
       .box-1 {
         transform: rotate(10deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-2 {
         transform: rotate(20deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-3 {
         transform: rotate(30deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-4 {
         transform: rotate(40deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-5 {
         transform: rotate(50deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-6 {
         transform: rotate(60deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-7 {
         transform: rotate(70deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-8 {
         transform: rotate(80deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-9 {
         transform: rotate(90deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
       .box-10 {
         transform: rotate(100deg);
+        box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       }
     }
 
     .img-box {
       width: 500px;
       height: 500px;
-      // z-index: 1;
+      box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
       img {
         width: 100%;
         height: 100%;

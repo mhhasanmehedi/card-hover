@@ -25,56 +25,78 @@
 .img-container .box:hover .box-1 {
   -webkit-transform: rotate(10deg);
           transform: rotate(10deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-2 {
   -webkit-transform: rotate(20deg);
           transform: rotate(20deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-3 {
   -webkit-transform: rotate(30deg);
           transform: rotate(30deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-4 {
   -webkit-transform: rotate(40deg);
           transform: rotate(40deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-5 {
   -webkit-transform: rotate(50deg);
           transform: rotate(50deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-6 {
   -webkit-transform: rotate(60deg);
           transform: rotate(60deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-7 {
   -webkit-transform: rotate(70deg);
           transform: rotate(70deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-8 {
   -webkit-transform: rotate(80deg);
           transform: rotate(80deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-9 {
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box:hover .box-10 {
   -webkit-transform: rotate(100deg);
           transform: rotate(100deg);
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box .img-box {
   width: 500px;
   height: 500px;
+  -webkit-box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
 }
 
 .img-container .box .img-box img {
